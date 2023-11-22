@@ -1,0 +1,12 @@
+.redButton {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.redButton::hove{
+    background-color: rgb(141, 0, 0);
+}

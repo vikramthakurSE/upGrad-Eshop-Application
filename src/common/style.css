@@ -1,0 +1,15 @@
+.center {
+    height: '100vh'; 
+    display: 'flex';
+    justify-content: center;
+    align-items: center;
+    margin-top: 10em;
+}
+
+.signinIcon {
+    display: inline-block;
+    background-color: red;
+    border-radius: 40px;
+    color: white;
+    padding: 0.5em;
+}
